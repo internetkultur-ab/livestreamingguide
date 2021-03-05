@@ -1,5 +1,5 @@
 layout: page
 title: "sidtitel"
-permalink: /test/
+permalink: /
 
 detta är en testsida
