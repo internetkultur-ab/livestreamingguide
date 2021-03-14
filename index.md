@@ -1,3 +1,8 @@
+---
+typora-copy-images-to: img
+
+---
+
 ## Finna, fixa och fånga ljudet
 
 I de flesta kyrkor och samlingslokaler använder vi oss av en ljudanläggning med mikrofoner och högtalare för att alla som är på plats ska höra vad som sägs. När vi ska sända live så kan vi låna samma mikrofoner genom att koppla in oss på den befintliga ljudanläggen. Om vi gör det på rätt sätt kan vaktmästaren justera ljudet som vanligt – så länge det låter bra i rummet kommer det låta bra i sändningen. 
@@ -100,6 +105,10 @@ Tror jag. Säg till om du undrar något. Som av en händelse erbjuder jag en tim
 > Det var superbra, och man kände sig helt... ompysslad och redo! 
 > *Görel*
 
+------
+
 ### Licens
 
 Denna artikel är publicerad under [Creative Commons CC BY-NC-SA 4.0-licens](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). Det innebär att du får kopiera, bearbeta och vidaredistribuera materialet så länge du använder samma licens och hänvisar tillbaka hit. Alla bilder är tagna av mig. Jag blir jätteglad om du skickar ett mail till mig om du gjort en egen vidaredistribution. 
+
+<img src="img/alex1-1x1 low.jpg" alt="alex1-1x1 low" style="zoom:5%;" align="left"/>
