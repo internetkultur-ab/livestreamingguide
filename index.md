@@ -10,13 +10,13 @@ Leta efter någon av dessa tre när du ska finna ljudet:
 
 #### RCA
 
-![rca-beskuren](img/rca-beskuren.jpeg)
+![rca-beskuren](/Users/alex/Documents/livestreamingguide/img/rca-beskuren.jpeg)
 
 Den känner du igen från din gamla stereo, eller hur? Kallas RCA eller phono och är den vanligaste kontakten för både ljud ut och ljud in. 
 
 #### Tele
 
-![telekontakter](img/telekontakter.jpeg)
+![telekontakter](/Users/alex/Documents/livestreamingguide/img/telekontakter.jpeg)
 
 Den klassiska lilla telekontakten känner du igen från dina hörlurar. Tele kommer i en liten variant (3,5 mm) och en stor variant (6,3 mm). Vissa kallar den lilla för mini-tele och den stora bara för tele. Ditt mixerbord har kanske en ljud ut med telekontakter? Eller ett hörlursuttag tänkt till ljudteknikerns medhörning? Där kan vi koppla in oss! 
 
@@ -24,13 +24,13 @@ En telekontakt kommer med olika många poler. En kontakt med bara en ring är en
 
 #### XLR
 
-![xlr](img/xlr.jpeg)
+![xlr](/Users/alex/Documents/livestreamingguide/img/xlr.jpeg)
 
 XLR-kontakten känner du nog också igen från alla mikrofoner. Det kan hända att ditt mixerbord har en ledig XLR-utgång, då kan du använda den. 
 
 #### Hopplösa fall
 
-![bose](img/bose.jpeg)
+![bose](/Users/alex/Documents/livestreamingguide/img/bose.jpeg)
 
 Har ni en sån här idiotsäker ljudanläggning, till exempel från Bose eller Creston? Då gör du bäst i att ta kontakt med firman som installerade den och be dem installera en ljudutgång. Säg att du vill ha en mono-utgång för att kunna koppla in din inspelningsutrustning så förstår de precis vad du menar. 
 
@@ -42,13 +42,13 @@ En balanserad signal är inte lika känslig för störningar som en obalanserad 
 
 ### Fånga ljudet
 
-![irig](img/irig.jpeg)
+![irig](/Users/alex/Documents/livestreamingguide/img/irig.jpeg)
 
 Nu när du funnit och fixat ljudet är det dags att fånga det, alltså få in det i din telefon. Det gör du enklast med ett ljudkort. Min favorit är *IK Multimedia iRig Pre HD*. Kostar runt tusenlappen och har en ljud in, en hörlurskontakt för medhörning och en ratt för att ställa ljudnivån. Funkar utan installation med iPhone, Android-telefoner med USB-C, Windows-datorer och Mac-datorer. 
 
 ## Bilden
 
-![iphone](img/iphone.jpeg)
+![iphone](/Users/alex/Documents/livestreamingguide/img/iphone.jpeg)
 
 Jag rekommenderar att du gör dina sändningar med en helt vanlig gammal iPhone. Eftersom sändningen ändå kommer ske komprimerat så finns det ingen anledning att bränna på med senaste modellen utan en iPhone 7 eller senare räcker gott. Nuförtiden kryllar det ju av begagnatbutiker på webben där du kan få en begagnad iPhone i gott skick för några tusenlappar. Eller så har ni kanske en över redan?
 
@@ -56,7 +56,7 @@ Om du har Wifi där du ska sända använder du med fördel det. Du behöver unge
 
 ### Kamerastativ
 
-![stativ](img/stativ.jpeg)
+![stativ](/Users/alex/Documents/livestreamingguide/img/stativ.jpeg)
 
 Du har säkert redan ett kamerastativ. Annars vill jag tipsa om "Compact Action" från Manfrotto som blivit en personlig favorit. Flexibel kulled, står hyfsat stabilt, enkelt att bära med sig och inte så dyrt. Till ditt stativ behöver du också en hållare till telefonen. Sådana brukar finnas på samma ställe du köper kamerastativet ifrån. Ta inte de allra billigaste, de brukar kännas plastiga och skapar en onödig oro när du har så mycket annat tänka på.
 
@@ -83,6 +83,8 @@ Alla mina föreslagna prylar finns hos Thomann. Utom en, kamerastativet har jag 
 
 # Det var nog allt?
 
+![alex](img/alex.jpg)
+
 Tror jag. Säg till om du undrar något. Som av en händelse erbjuder jag en timmes digital kurs med rubriken "Gudstjänst digitalt – sändning utan mellanhand" som du gärna får hyra in. Här är några kommentarer från när jag höll kurs på uppdrag av stiftskansliet i Växjö:
 
 > Jättebra Alex, lagom nivå. Jag inser att vi ibland varit för avancerade hos oss. 👏
@@ -105,3 +107,4 @@ Tror jag. Säg till om du undrar något. Som av en händelse erbjuder jag en tim
 ### Licens
 
 Denna artikel är publicerad under [Creative Commons CC BY-NC-SA 4.0-licens](http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1). Det innebär att du får kopiera, bearbeta och vidaredistribuera materialet så länge du använder samma licens och hänvisar tillbaka hit. Alla bilder är tagna av mig. Jag blir jätteglad om du skickar ett mail till mig om du gjort en egen vidaredistribution.
+
