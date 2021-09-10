@@ -132,11 +132,11 @@ Denna artikel är publicerad under [Creative Commons CC BY-NC-SA 4.0-licens](htt
 
 #### Ändringslogg
 
-##### 2020-03-14
+##### 2021-03-14
 
 Första publicering
 
-##### 2020-03-16
+##### 2021-03-16
 
 Utökade infon om uppkoppling via wifi/4G. La till ett stycke om att sända med andra appar än Larix. La till en plats för medförfattare och ändringslogg. Ändrade lite stavfel och justerade några meningar.
 
