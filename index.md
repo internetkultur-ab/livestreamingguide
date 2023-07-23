@@ -132,6 +132,10 @@ Denna artikel är publicerad under [Creative Commons CC BY-NC-SA 4.0-licens](htt
 
 #### Ändringslogg
 
+##### 2023-07-23
+
+Uppdaterat länkarna till intranätet
+
 ##### 2021-03-14
 
 Första publicering
